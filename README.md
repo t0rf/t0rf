@@ -11,14 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning **fastai, pytorch.**
+
+
+<h4 align="center">B.A. Psychology '22 - University of Manitoba</h4>
+
 -->
 
 <h1 align="center"> Hi 👋 </h1>
-<h4 align="center">B.A. Psychology '22 - University of Manitoba</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0rf&label=Profile%20views&color=0e75b6&style=flat" alt="t0rf" /> </p>
 
-- 🌱 I’m currently learning **fastai, pytorch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
