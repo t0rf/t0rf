@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4 align="center">B.A. Psychology '22 - University of Manitoba</h4>
 
 -->
-
+<!--
 <h1 align="center"> Hi 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0rf&label=Profile%20views&color=0e75b6&style=flat" alt="t0rf" /> </p>
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0rf&show_icons=true&locale=en" alt="t0rf" /></p>
 
+-->
